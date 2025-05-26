@@ -42,7 +42,7 @@ Millions of people rely on internet searches for symptoms—which often lead to 
 ---
 
 
-Here is the link to the (website)[https://health-buddy-ai-doctor.lovable.app/]
+Here is the link to the [website](https://health-buddy-ai-doctor.lovable.app/)
 
 
 
