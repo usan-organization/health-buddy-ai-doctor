@@ -43,9 +43,24 @@ Millions of people rely on internet searches for symptoms—which often lead to 
 
 
 Here are:
+
 - the link to the [website](https://health-buddy-ai-doctor.lovable.app/)
 
 - The link to the [pitch deck](https://www.canva.com/design/DAGodnG7Yqc/Kqk31FSMblbfnhtH73ZjMg/view?utm_content=DAGodnG7Yqc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdb7788fff9)
+
+
+---
+
+## Collaborators
+
+- **Usanase Makala**
+
+- **Clarence Sithole**
+
+- **Duncan Zevai**
+
+---
+
 
 
 
