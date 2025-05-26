@@ -1,8 +1,7 @@
-# Welcome to health-buddy-ai-doctor 
+## Welcome to health-buddy-ai-doctor   
+  
 
-            or 
-
-# DR, Ai (The Smartest Doctor for Everyone)
+## DR, Ai (The Smartest Doctor for Everyone)
 
 
 
