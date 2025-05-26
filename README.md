@@ -1,7 +1,7 @@
 ## Welcome to health-buddy-ai-doctor   
   
 
-## DR, Ai (The Smartest Doctor for Everyone)
+## DR. Ai (The Smartest Doctor for Everyone)
 
 
 
@@ -42,6 +42,7 @@ Millions of people rely on internet searches for symptoms—which often lead to 
 ---
 
 
+Here is the link to the (website)[https://health-buddy-ai-doctor.lovable.app/]
 
 
 
