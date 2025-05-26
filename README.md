@@ -1,4 +1,8 @@
-# Welcome to health-buddy-ai-doctor or DR, Ai (The Smartest Doctor for Everyone)-
+# Welcome to health-buddy-ai-doctor 
+
+            or 
+
+# DR, Ai (The Smartest Doctor for Everyone)
 
 
 
@@ -9,6 +13,7 @@
 ## 🩺 About the Project
 
 **Dr.AI** or **MedAI Assistant** is a no-code AI-powered healthcare assistant designed to help *anyone* get the best possible diagnosis and guidance—just like from the world's best doctor. Built using [lovable](https://lovable.dev), Dr. AI brings reliable medical insights to your phone, your home, and to the 50% of the world that still lacks access to quality care.
+
 
 > ⚠️ **Disclaimer**: This project is **not a substitute for professional medical advice, diagnosis, or treatment.** Always seek the advice of your physician or other qualified health provider with any questions you may have.
 
