@@ -1,6 +1,5 @@
-
 import React, { useState } from 'react';
-import { Stethoscope, User, Users, Hospital, Medicine, Brain, Heart, Shield, Search, MessageCircle, Calendar, FileText, AlertTriangle } from 'lucide-react';
+import { Stethoscope, User, Users, Hospital, Pill, Brain, Heart, Shield, Search, MessageCircle, Calendar, FileText, AlertTriangle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
