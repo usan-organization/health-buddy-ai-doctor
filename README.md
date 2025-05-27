@@ -48,7 +48,7 @@ Here are:
 
 - The link to the [pitch deck](https://www.canva.com/design/DAGodnG7Yqc/Kqk31FSMblbfnhtH73ZjMg/view?utm_content=DAGodnG7Yqc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdb7788fff9)
 
-
+- There is also a [PDF Document](./documentation/Documentation.pdf)
 ---
 
 ## Collaborators
